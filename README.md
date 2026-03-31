@@ -16,7 +16,7 @@ A aplicação realiza uma operação simples de **multiplicação de números**,
 ## 📢 Confira no LinkedIn
 
 <div align="center">
-  <a href="https://www.linkedin.com/posts/seu-usuario_aqui" target="_blank">
+  <a href="[https://www.linkedin.com/posts/seu-usuario_aqui](https://www.linkedin.com/posts/viniciusacti_reactnative-meuprimeiroprojeto-migrandodecarreira-ugcPost-7443329097507782657-i5OK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC534wcBdQRdJ668Whe5lDDJAFd-4SGwzaA)" target="_blank">
     <img src="https://img.shields.io/badge/🔗_Veja_o_post_completo_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Post no LinkedIn"/>
   </a>
 </div>
