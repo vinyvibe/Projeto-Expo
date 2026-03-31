@@ -6,6 +6,9 @@
 
 Este é um projeto desenvolvido em **React Native (Expo)** como parte da minha jornada de aprendizado e migração de carreira para desenvolvimento de software.
 
+## 📸 Demonstração
+<div align="center"> <img src=".github/teste-app.gif" alt="Demonstração do Projeto" width="300"/> </div>
+
 ## 🚀 Funcionalidade
 
 A aplicação realiza uma operação simples de **multiplicação de números**, criada para praticar e consolidar conceitos fundamentais do desenvolvimento mobile com React Native e Expo.
