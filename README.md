@@ -1,2 +1,39 @@
-# Projeto-Expo
-Projeto feito usando React Active
+# Projeto Expo
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+Este é um projeto desenvolvido em **React Native (Expo)** como parte da minha jornada de aprendizado e migração de carreira para desenvolvimento de software.
+
+## 📸 Demonstração
+<div align="center"> <img src=".github/teste-app.gif" alt="Demonstração do Projeto" width="300"/> </div>
+
+## 🚀 Funcionalidade
+
+A aplicação realiza uma operação simples de **multiplicação de números**, criada para praticar e consolidar conceitos fundamentais do desenvolvimento mobile com React Native e Expo.
+
+✔ **Exemplo de uso:**  
+`23 × 26 = 598`
+
+## 🛠️ Tecnologias utilizadas
+
+- **React Native** com **Expo** – Estrutura principal do aplicativo
+- **JavaScript** – Lógica de programação
+- **React Hooks** (useState) – Gerenciamento de estado
+- **Styled Components** – Estilização da interface
+
+## 📱 Como executar o projeto
+
+```bash
+# Clone este repositório
+git clone https://github.com/vinyvibe/Projeto-Expo.git
+
+# Acesse a pasta do projeto
+cd Projeto-Expo
+
+# Instale as dependências
+npm install
+
+# Execute o projeto com Expo
+npx expo start
