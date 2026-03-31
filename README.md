@@ -13,8 +13,15 @@ Este é um projeto desenvolvido em **React Native (Expo)** como parte da minha j
 
 A aplicação realiza uma operação simples de **multiplicação de números**, criada para praticar e consolidar conceitos fundamentais do desenvolvimento mobile com React Native e Expo.
 
-✔ **Exemplo de uso:**  
-`23 × 26 = 598`
+## 📢 Confira no LinkedIn
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/seu-usuario_aqui" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Veja_o_post_completo_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Post no LinkedIn"/>
+  </a>
+</div>
+
+*Neste post compartilho mais detalhes sobre o desenvolvimento, desafios encontrados e aprendizados ao longo do projeto.*
 
 ## 🛠️ Tecnologias utilizadas
 
